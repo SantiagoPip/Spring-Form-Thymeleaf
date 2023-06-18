@@ -1,6 +1,6 @@
 package com.bolsadeideas.springboot.form.models.domain;
 
-import jakarta.validation.constraints.NotNull;
+//import jakarta.validation.constraints.NotNull;
 
 public class Pais {
 	//@NotNull
